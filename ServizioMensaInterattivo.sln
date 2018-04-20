@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServizioMensaInterattivo", "ServizioMensaInterattivo\ServizioMensaInterattivo.csproj", "{8EDEC41D-581D-44A2-B031-A1F8738033EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "ErrorLog\Logger.csproj", "{B48DB255-D4A1-4069-9BCA-887CB466CB38}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F610FA25-1857-424D-87EA-146F1FDC1907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDEC41D-581D-44A2-B031-A1F8738033EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDEC41D-581D-44A2-B031-A1F8738033EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDEC41D-581D-44A2-B031-A1F8738033EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDEC41D-581D-44A2-B031-A1F8738033EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48DB255-D4A1-4069-9BCA-887CB466CB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48DB255-D4A1-4069-9BCA-887CB466CB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48DB255-D4A1-4069-9BCA-887CB466CB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48DB255-D4A1-4069-9BCA-887CB466CB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F610FA25-1857-424D-87EA-146F1FDC1907}.Debug|Any CPU.ActiveCfg = Debug
+		{F610FA25-1857-424D-87EA-146F1FDC1907}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
